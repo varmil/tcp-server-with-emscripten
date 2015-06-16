@@ -1,0 +1,14 @@
+{
+  "name": "tcp-server",
+  "version": "1.0.0",
+  "description": "A simple tcp-server written in C, and Use LLVM to convert code from C to JS",
+  "main": "a.out.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Akihiro Yamamoto",
+  "license": "ISC",
+  "dependencies": {
+    "ws": "^0.7.2"
+  }
+}
